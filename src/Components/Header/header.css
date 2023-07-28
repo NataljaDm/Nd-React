@@ -3,7 +3,7 @@
     top: 0;
     height: 20%;
     width: 400px;
-    background-color: rgb(250, 250, 250);
+    
     color: rgb(80, 78, 78);
     padding: 20px;
     font-size: 0.7em;
@@ -15,12 +15,13 @@
   }
   
   .search {
-    padding: 2% 60% 2% 10%;
+    padding: 2% 50% 2% 10%;
     width: 50%;
     height: 50%;
     background-color: #f1f1f1;
     border-radius: 50px;
   }
+  
   .welcome {
     position: fixed;
     right: 40%;
@@ -33,13 +34,12 @@
     height: 8%;
     width: 25%;
   }
+
   h5 {
     margin-top: 0%;
-  
-
   }
+
   h1 {
-    
     margin-bottom: 0%;
     text-align: left;
   }
