@@ -1,4 +1,4 @@
-
+import Header from "./Components/Header/header";
 import Column from "./Components/LeftColumn";
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Column />
-        
+        <Header />
       </header>
     </div>
   );

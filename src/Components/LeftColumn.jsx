@@ -1,17 +1,15 @@
 import React from "react";
 import "../App.css";
-import logo from './Logo.png'
+import logo from './Logo.PNG'
 
 const Column = () => {
     return (
         <div className='column'>
             <ul>
-                <li>
-                    <div>
-                        <img src={logo} alt="Logo" />
-                    </div>
-                </li>
-                <li>
+                <div>
+                    <img src={logo} alt="Logo" />
+                </div>
+                <li >
                     <span>Dashboard</span>
                 </li>
                 <li>
