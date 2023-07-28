@@ -7,7 +7,7 @@ const Column = () => {
         <div>
             <ul>
                 <li>
-                    <span>Dashboard</span>
+                    <span className="button">Dashboard</span>
                 </li>
                 <li>
                     <span>Product</span>
@@ -31,6 +31,9 @@ const Column = () => {
                 </li>
                 <li>
                     <span>Settings</span>
+                </li>
+                <li>
+                    <span>Dark Mode</span>
                 </li>
             </ul>
         </div>
