@@ -1,12 +1,16 @@
 import React from "react";
 import "../App.css";
-import AccountCircleIcon from '@mui/icons-material/AccountCircle';
-
+import logo from './Logo.png'
 
 const Column = () => {
     return (
         <div className='column'>
             <ul>
+                <li>
+                    <div>
+                        <img src={logo} alt="Logo" />
+                    </div>
+                </li>
                 <li>
                     <span>Dashboard</span>
                 </li>

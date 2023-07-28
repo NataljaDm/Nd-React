@@ -43,8 +43,8 @@
   left: 0;
   height: 100%;
   width: 250px;
-  background-color: white;
-  color: grey;
+  background-color: rgb(218, 213, 213);
+  color: rgb(80, 78, 78);
   padding: 20px;
   font-size: 0.7em;
 }
