@@ -18,44 +18,44 @@ const Column = () => {
                 <div>
                     <img src={logo} alt="Logo" />
                 </div>
-                <div>
+                <li>
                     <img className="pic" src={logo1} alt="Logo1" />
                     <span>Dashboard</span>
-                </div>
-                <div>
+                </li>
+                <li>
                     <img className="pic" src={logo14} alt="Logo14" />
                     <span>Product</span>
                     <div className="amount">2</div>
-                </div>
-                <div>
+                </li>
+                <li>
                     <img className="pic" src={logo4} alt="Logo4" />
                     <span>Store</span>
-                </div>
-                <div>
+                </li>
+                <li>
                     <img className="pic" src={logo5} alt="Logo5" />
                     <span>Visitor</span>
-                </div>
-                <div>
+                </li>
+                <li>
                     <img className="pic" src={logo6} alt="Logo6" />
                     <span>Analytics</span>
-                </div>
-                <div>
+                </li>
+                <li>
                     <img className="pic" src={logo7} alt="Logo7" />
                     <span>Notification</span>
                     <div className="amount">11</div>
-                </div>
-                <div>
+                </li>
+                <li>
                     <img className="pic" src={logo8} alt="Logo8" />
                     <span>Help Center</span>
-                </div>
-                <div>
+                </li>
+                <li>
                     <img className="pic" src={logo9} alt="Logo9" />
                     <span>Settings</span>
-                </div>
-                <div>
+                </li>
+                <li>
                     <img className="pic" src={logo16} alt="Logo16" />
                     <span>Dark Mode</span>
-                </div>
+                </li>
             </ul>
         </div>
     )

@@ -70,9 +70,9 @@ span {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 12px;
+  font-size: 10px;
   margin-left: 5px;
-  font-size: 0.8em;
+  font-size: 0.7em;
 }
 
 .help-center {
@@ -87,3 +87,7 @@ li:hover {
   color: #fff;
 }
 
+.pic {
+  margin: 0vmin 0.8vmin -0.4vmin -1.5vmin;
+  font-size: 15px;
+}
