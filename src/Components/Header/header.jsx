@@ -9,7 +9,7 @@ const Header = () => {
         <div className='header'>
             <div className='welcome'>
                 <div>
-                    <span className='search'><img className="pic" src={logo13} alt="Logo13" />Search anything</span>
+                    <span className='search'><img className="logo" src={logo13} alt="Logo13" />Search anything</span>
                 </div>
                 <div>
                     <h1>Welcome back, Maxie</h1>
