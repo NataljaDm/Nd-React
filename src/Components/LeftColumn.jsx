@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import logo from './Logo.PNG'
+import logo from './Logo/Logo.PNG'
 
 const Column = () => {
     return (
