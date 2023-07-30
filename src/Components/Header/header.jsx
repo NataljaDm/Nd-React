@@ -2,14 +2,14 @@ import React from "react";
 import "./header.css";
 import logo2 from '../Logo/Logo2.PNG';
 import logo3 from '../Logo/Logo3.PNG';
-
+import logo13 from '../Logo/Logo13.png';
 
 const Header = () => {
     return (
         <div className='header'>
             <div className='welcome'>
                 <div>
-                    <span className='search'>Search anything</span>
+                    <span className='search'><img className="pic" src={logo13} alt="Logo13" />Search anything</span>
                 </div>
                 <div>
                     <h1>Welcome back, Maxie</h1>
